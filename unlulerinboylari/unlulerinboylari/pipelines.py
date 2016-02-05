@@ -23,10 +23,7 @@ class UnlulerinboylariPipeline(object):
             val = re.sub("\D", "", val)
             if len(val) != length:
                 return False
-
-        if suffix:
-            val = val.strip() + ' ' + suffix
-        return val.strip()
+        return int(val.strip())
 
     def validate_str(self, value):
         if type(value) == list:
@@ -48,8 +45,8 @@ class UnlulerinboylariPipeline(object):
 
     def process_item(self, item, spider):
         print item
-        height = self.validate_int(item['height'], length=3, suffix='cm')
-        weight = self.validate_int(item['weight'], length=2, suffix='kg')
+        height = self.validate_int(item['height'], length=3) / 100
+        weight = self.validate_int(item['weight'], length=2) / 100
         name = self.validate_str(item['name']) or ''
 
         if height is None and weight is None:
@@ -72,12 +69,14 @@ class UnlulerinboylariPipeline(object):
             "params": {
                 "Height": (
                     {
-                        "value": height
+                        "value": height,
+                        "unit": "m"
                     },
                 ),
                 "Weight": (
                     {
-                        "value": weight
+                        "value": weight,
+                        "unit": "kg"
                     },
                 )
             },

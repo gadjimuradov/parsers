@@ -23,9 +23,6 @@ class UnluyaslariPipeline(object):
             val = re.sub("\D", "", val)
             if len(val) != length:
                 return False
-
-        if suffix:
-            val = val.strip() + ' ' + suffix
         return int(val.strip())
 
     def validate_str(self, value):
@@ -47,8 +44,8 @@ class UnluyaslariPipeline(object):
         return val.strip()
 
     def process_item(self, item, spider):
-        height = self.validate_int(item['height'], length=3)
-        weight = self.validate_int(item['weight'], length=2)
+        height = self.validate_int(item['height'], length=3) / 100
+        weight = self.validate_int(item['weight'], length=2) / 100
         name = self.validate_str(item['name']) or ''
         desc = self.validate_str(item['desc']) or ''
 
