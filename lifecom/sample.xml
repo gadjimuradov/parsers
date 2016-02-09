@@ -1,0 +1,3695 @@
+<companies xmlns:xmlns="http://www.w3.org/2001/XInclude" version="2.1">
+  <company>
+    <company-id>00040</company-id>
+    <name>Клуб on life:)</name>
+    <address lang="by">город Минск, пр-т Независимости, 23</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7271177</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771941</actualization-date>
+  </company>
+  <company>
+    <company-id>00041</company-id>
+    <name>Первый флагманский магазин life:)</name>
+    <address lang="by">город Минск, пр-т Независимости, 23</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7271177</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771947</actualization-date>
+  </company>
+  <company>
+    <company-id>00042</company-id>
+    <name>Центр продаж и обслуживания</name>
+    <address lang="by">город Минск, ул. В.Хоружей, 6 Б</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9410800</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771947</actualization-date>
+  </company>
+  <company>
+    <company-id>00043</company-id>
+    <name>Центр продаж и обслуживания</name>
+    <address lang="by">город Минск, Уманская, 54 (ТЦ «ГЛОБО», пав.113)</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+ () </number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771947</actualization-date>
+  </company>
+  <company>
+    <company-id>00044</company-id>
+    <name>Центр продаж и обслуживания</name>
+    <address lang="by">город Минск, пр-т Победителей, 1</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+ () </number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771948</actualization-date>
+  </company>
+  <company>
+    <company-id>00045</company-id>
+    <name>Центр продаж и обслуживания</name>
+    <address lang="by">город Минск, ул. Кальварийская, 24 ТЦ "Корона"</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9415585</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771948</actualization-date>
+  </company>
+  <company>
+    <company-id>00046</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Минск, тер. Подземные переходы, д.13,  ТЦ «Столица» 1-й уровень, пав. 65</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7709980</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771949</actualization-date>
+  </company>
+  <company>
+    <company-id>00047</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Минск, пр. Победителей, 1</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7620157</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771949</actualization-date>
+  </company>
+  <company>
+    <company-id>00048</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Минск, пересеч. Логойского тракта и МКАД ТРЦ «Экспобел»</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 5141115</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771950</actualization-date>
+  </company>
+  <company>
+    <company-id>00049</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Минск, ул. Корженевского, 26 (ТЦ Корона)</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 5259297</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771950</actualization-date>
+  </company>
+  <company>
+    <company-id>000410</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Минск, ул. Бурдейного, 6</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9351166</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771951</actualization-date>
+  </company>
+  <company>
+    <company-id>000411</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Минск, пр. Независимости, 155</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 5223077</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771952</actualization-date>
+  </company>
+  <company>
+    <company-id>000412</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Минск, ул. Горецкого, 2</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9389610</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771952</actualization-date>
+  </company>
+  <company>
+    <company-id>000413</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Минск, ул. Кальварийская, 18</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7720386</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771952</actualization-date>
+  </company>
+  <company>
+    <company-id>000414</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Минск, пр. Победителей, 65</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9062320</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771953</actualization-date>
+  </company>
+  <company>
+    <company-id>000415</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Минск, Ул. Могилевская, 5</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9241687</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771953</actualization-date>
+  </company>
+  <company>
+    <company-id>000416</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Минск, пр. Газеты "Звязда", 16</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 5405812</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771954</actualization-date>
+  </company>
+  <company>
+    <company-id>000417</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Минск, пр. Дзержинского, 126</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9430003</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771954</actualization-date>
+  </company>
+  <company>
+    <company-id>000418</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Минск, ул. Голубка 2 (ТЦ Бонус)</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7366909</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771955</actualization-date>
+  </company>
+  <company>
+    <company-id>000419</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Минск, ул. Налибокская, 1,  ТЦ "Караван" пав. 163</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6946500</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771955</actualization-date>
+  </company>
+  <company>
+    <company-id>000420</company-id>
+    <name>Эксклюзивный пункт продаж life:)</name>
+    <address lang="by">город Минск, Национальный аэропорт Минск-2</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9091616</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771955</actualization-date>
+  </company>
+  <company>
+    <company-id>000421</company-id>
+    <name>Эксклюзивный пункт продаж life:)</name>
+    <address lang="by">город Минск, пр. Рокоссовского, 2</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9197742</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771956</actualization-date>
+  </company>
+  <company>
+    <company-id>000422</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Минск, ул. Лобанка, 94 ТЦ "Максимус"</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9465040</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771956</actualization-date>
+  </company>
+  <company>
+    <company-id>000423</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Минск, ул. Жилуновича, 4, универмаг "Беларусь"</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7620159</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771956</actualization-date>
+  </company>
+  <company>
+    <company-id>000424</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Минск, ул. Варвашени, 1</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9119588</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771957</actualization-date>
+  </company>
+  <company>
+    <company-id>000425</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Смолевичи, ул. Советская, 119</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6687353</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/smolevichi</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771960</actualization-date>
+  </company>
+  <company>
+    <company-id>000426</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Минск, ул. Есенина, 76 ТЦ "Максимус"</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 5398051</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771963</actualization-date>
+  </company>
+  <company>
+    <company-id>000427</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Минск, ул. Сурганова, 50</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7573781</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771963</actualization-date>
+  </company>
+  <company>
+    <company-id>000428</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Минск, ул. Каменногорская, 3</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+ () </number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771964</actualization-date>
+  </company>
+  <company>
+    <company-id>000429</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Минск, ул. Я. Коласа, 35</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6661638</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771964</actualization-date>
+  </company>
+  <company>
+    <company-id>000430</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Минск, поселок Лесной, 3а</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7941869</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771964</actualization-date>
+  </company>
+  <company>
+    <company-id>000431</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Минск, ул. Бобруйская, 6 (Возле ЖД Вокзала, ТЦ Галилео)</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 5170360</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771965</actualization-date>
+  </company>
+  <company>
+    <company-id>000432</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Минск, ул. Плеханова, 89</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 5296831</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771965</actualization-date>
+  </company>
+  <company>
+    <company-id>000433</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Минск, ул. Руссиянова, 6</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7922751</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771966</actualization-date>
+  </company>
+  <company>
+    <company-id>000434</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Минск, ст.м. Пушкинская, ТЦ "Раковский кирмаш" (напротив касс)</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9899969</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771966</actualization-date>
+  </company>
+  <company>
+    <company-id>000435</company-id>
+    <name>Эксклюзивный пункт продаж</name>
+    <address lang="by">город Минск, ул. Корженевского, 10а</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7007294</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771966</actualization-date>
+  </company>
+  <company>
+    <company-id>000436</company-id>
+    <name>Эксклюзивный пункт продаж</name>
+    <address lang="by">город Минск, пр. Дзержинского, 104</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9286655</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771967</actualization-date>
+  </company>
+  <company>
+    <company-id>000437</company-id>
+    <name>Эксклюзивный пункт продаж</name>
+    <address lang="by">город Минск, Логойский тракт, 37, пом. 20 (Nord City)</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6309434</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771967</actualization-date>
+  </company>
+  <company>
+    <company-id>000438</company-id>
+    <name>Эксклюзивный пункт продаж</name>
+    <address lang="by">город Минск, ул. Уборевича, 176</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 5005960</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771967</actualization-date>
+  </company>
+  <company>
+    <company-id>000439</company-id>
+    <name>Эксклюзивный пункт продаж</name>
+    <address lang="by">город Минск, ул. Уманская, 54 ТЦ Глобо, пав. 113</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7762432</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771968</actualization-date>
+  </company>
+  <company>
+    <company-id>000440</company-id>
+    <name>Эксклюзивный пункт продаж</name>
+    <address lang="by">город Минск, пр. Партизанский, 182</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 5005611</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771968</actualization-date>
+  </company>
+  <company>
+    <company-id>000441</company-id>
+    <name>Эксклюзивный пункт продаж</name>
+    <address lang="by">город Минск, ул. Глебки, 5 ТЦ "Скала"</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7357642</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771969</actualization-date>
+  </company>
+  <company>
+    <company-id>000442</company-id>
+    <name>Эксклюзивный пункт продаж</name>
+    <address lang="by">город Минск, пр. Партизанский, подземный переход ст.м. "Партизанская"</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7743144</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771969</actualization-date>
+  </company>
+  <company>
+    <company-id>000443</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Свислочь, ул. Строителей 2, павильон 23</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+ () </number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/svisloch</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032771990</actualization-date>
+  </company>
+  <company>
+    <company-id>000444</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Минск, ул. Одинцова, 65</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+ () </number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772001</actualization-date>
+  </company>
+  <company>
+    <company-id>000445</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Минск, ул. Притыцкого, 29</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+ () </number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772001</actualization-date>
+  </company>
+  <company>
+    <company-id>000446</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Минск, пл. Привокзальная, 3</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9422968</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772002</actualization-date>
+  </company>
+  <company>
+    <company-id>000447</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Минск, ул. Чкалова, 12</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6675763</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772002</actualization-date>
+  </company>
+  <company>
+    <company-id>000448</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Минск, пр-т Независимости, 58 ТЦ Московско-Венский, 2 эт.</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7856810</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/minsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772002</actualization-date>
+  </company>
+  <company>
+    <company-id>000449</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Светлогорск, ул. Луначарского, 8б</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 5270913</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/svetlogorsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772009</actualization-date>
+  </company>
+  <company>
+    <company-id>000450</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Светлогорск, м-н Березина, д.5  ТЦ Анженко</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9992700</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/svetlogorsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772010</actualization-date>
+  </company>
+  <company>
+    <company-id>000451</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Речица, ул. Советская, 102 Б</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9767673</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/rechitsa</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772051</actualization-date>
+  </company>
+  <company>
+    <company-id>000452</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Речица, ул. Достоевского, 27</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (23) 4031234</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/rechitsa</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772053</actualization-date>
+  </company>
+  <company>
+    <company-id>000453</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Речица, ул. Советская, 66-2</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9625237</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/rechitsa</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772053</actualization-date>
+  </company>
+  <company>
+    <company-id>000454</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Смиловичи, ул. Дзержинского, 7а</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7123541</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/smilovichi</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772059</actualization-date>
+  </company>
+  <company>
+    <company-id>000455</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Поставы, ул. Ленинская, 4/2</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9076919</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/postavyi</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772084</actualization-date>
+  </company>
+  <company>
+    <company-id>000456</company-id>
+    <name>Центр продаж и обслуживания</name>
+    <address lang="by">город Слуцк, ул. Ленина, 195А, к.6</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+ () </number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/slutsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772103</actualization-date>
+  </company>
+  <company>
+    <company-id>000457</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Слуцк, ул. Ленина, 118</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7155286</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/slutsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772104</actualization-date>
+  </company>
+  <company>
+    <company-id>000458</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Слуцк, ул. Ленина, 195А, к.6</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 5493189</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/slutsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772105</actualization-date>
+  </company>
+  <company>
+    <company-id>000459</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Слуцк, ул. Ленина, 159А</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9484848</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/slutsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772111</actualization-date>
+  </company>
+  <company>
+    <company-id>000460</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Рогачев, ул. Богатырева, 114а ТЦ "Восточный"</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9154782</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/rogachev</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772121</actualization-date>
+  </company>
+  <company>
+    <company-id>000461</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Рогачев, ул. Октябрьская, 18, Дом быта, магазин "Автозапчасти" (вход со стороны остановки)</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (29) 9932333</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/rogachev</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772123</actualization-date>
+  </company>
+  <company>
+    <company-id>000462</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Слоним, ул. Брестская, 42А</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6922499</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/slonim</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772147</actualization-date>
+  </company>
+  <company>
+    <company-id>000463</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Слоним, ул. В. Крайнего, 22</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6922488</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/slonim</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772148</actualization-date>
+  </company>
+  <company>
+    <company-id>000464</company-id>
+    <name>Центр продаж и обслуживания</name>
+    <address lang="by">город Полоцк, пр. Ф. Скорины, д.37</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+ () </number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/polotsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772176</actualization-date>
+  </company>
+  <company>
+    <company-id>000465</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Полоцк, ул. П.Бровки, 45-1</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 5249947</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/polotsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772176</actualization-date>
+  </company>
+  <company>
+    <company-id>000466</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Полоцк, пр. Скорины, 37</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7378177</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/polotsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772177</actualization-date>
+  </company>
+  <company>
+    <company-id>000467</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Пружаны, ул. Советская, 2</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7814700</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/prujanyi</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772196</actualization-date>
+  </company>
+  <company>
+    <company-id>000468</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Петриков, ул. Королева, 17</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6275829</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/petrikov</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772217</actualization-date>
+  </company>
+  <company>
+    <company-id>000469</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Дрибин, ул. Рясненская, 4</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9059895</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/dribin</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772248</actualization-date>
+  </company>
+  <company>
+    <company-id>000470</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Чаусы, ул. Первомайская, 26</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7641660</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/chausyi</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772271</actualization-date>
+  </company>
+  <company>
+    <company-id>000471</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Лошница, ул. Кирова, 1</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+ () </number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/loshnitsa</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772290</actualization-date>
+  </company>
+  <company>
+    <company-id>000472</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Туров, ул.Кирова, 4  магазин «Техно Плюс»</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+ () </number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/turov</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772319</actualization-date>
+  </company>
+  <company>
+    <company-id>000473</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Островец, ул. Ленинская, 18</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9466352</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/ostrovets</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772334</actualization-date>
+  </company>
+  <company>
+    <company-id>000474</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Ошмяны, ул. Советская 106</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9288369</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/oshmyanyi</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772366</actualization-date>
+  </company>
+  <company>
+    <company-id>000475</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Дружный, ул. Чепика, Центральный, пав. 13</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9052336</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/drujnyiy</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772383</actualization-date>
+  </company>
+  <company>
+    <company-id>000476</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Высокое, ул. Советских Пограничников, 3/3</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7801607</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/vyisokoe</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772402</actualization-date>
+  </company>
+  <company>
+    <company-id>000477</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Ивье, ул. 1 МАЯ, 17</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (15) 9523050</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/ive</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772422</actualization-date>
+  </company>
+  <company>
+    <company-id>000478</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Вороново, ул. Советская, 11</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (15) 9420370</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/voronovo</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772450</actualization-date>
+  </company>
+  <company>
+    <company-id>000479</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Радунь, ул. Советская, 41</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (29) 9514444</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/radun</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772469</actualization-date>
+  </company>
+  <company>
+    <company-id>000480</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Березовка, ул. Корзюка, 12</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9485929</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/berezovka</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772499</actualization-date>
+  </company>
+  <company>
+    <company-id>000481</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Круглое, ул. Советская, 26</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+ () </number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/krugloe</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772516</actualization-date>
+  </company>
+  <company>
+    <company-id>000482</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Дубровно, ул. Комсамольская, 15</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7885296</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/dubrovno</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772536</actualization-date>
+  </company>
+  <company>
+    <company-id>000483</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Буда-Кошелево, ул. Ленина, 58</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7985406</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/buda-koshelevo</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772563</actualization-date>
+  </company>
+  <company>
+    <company-id>000484</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Сенно, ул. Пролетарская, 5</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (29) 5174735</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/senno</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772582</actualization-date>
+  </company>
+  <company>
+    <company-id>000485</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Нарочь, ул. Ленинская, 10</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6053000</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/naroch_a</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772600</actualization-date>
+  </company>
+  <company>
+    <company-id>000486</company-id>
+    <name>Центр продаж и обслуживания</name>
+    <address lang="by">город Пинск, ул. Ленина, 13</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+ () </number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/pinsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772633</actualization-date>
+  </company>
+  <company>
+    <company-id>000487</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Пинск, пл. Ленина, 3</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7590001</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/pinsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772634</actualization-date>
+  </company>
+  <company>
+    <company-id>000488</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Пинск, ул. Первомайская 142/24</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9417788</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/pinsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772635</actualization-date>
+  </company>
+  <company>
+    <company-id>000489</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Пинск, ул. Первомайская, 10</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9084830</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/pinsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772635</actualization-date>
+  </company>
+  <company>
+    <company-id>000490</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Пинск, ул. Ленина, 13</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6486505</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/pinsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772636</actualization-date>
+  </company>
+  <company>
+    <company-id>000491</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Лиозно, ул. Ленина, 72</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (29) 5131399</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/liozno</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772648</actualization-date>
+  </company>
+  <company>
+    <company-id>000492</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Костюковичи, ул. Зиньковича, 96</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+ () </number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/kostyukovichi</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772675</actualization-date>
+  </company>
+  <company>
+    <company-id>000493</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Чашники, ул. Советская, 24/2</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6826561</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/chashniki</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772700</actualization-date>
+  </company>
+  <company>
+    <company-id>000494</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Хотимск, ул. Комсомольская, 15</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+ () </number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/hotimsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772724</actualization-date>
+  </company>
+  <company>
+    <company-id>000495</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Шарковщина, ул. Вокзальная</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (29) 2937715</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/sharkovschina</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772751</actualization-date>
+  </company>
+  <company>
+    <company-id>000496</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Браслав, ул. Садовая, 6</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (29) 2924108</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/braslav</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772776</actualization-date>
+  </company>
+  <company>
+    <company-id>000497</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Браслав, ул. Советская, 117</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (33) 3088669</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/braslav</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772776</actualization-date>
+  </company>
+  <company>
+    <company-id>000498</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Городок, ул. Галицкого, 94</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (29) 8988447</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/gorodok</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772798</actualization-date>
+  </company>
+  <company>
+    <company-id>000499</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Новолукомль, б-р Озмителя, 10</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (29) 8751212</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/novolukoml</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772822</actualization-date>
+  </company>
+  <company>
+    <company-id>0004100</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Славгород, ул. Октябрьская, 27</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+ () </number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/slavgorod</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772848</actualization-date>
+  </company>
+  <company>
+    <company-id>0004101</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Белыничи, ул. Советская, 14</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6056065</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/belyinichi</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772873</actualization-date>
+  </company>
+  <company>
+    <company-id>0004102</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Белыничи, ул. Калинина, 38</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+ () </number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/belyinichi</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772874</actualization-date>
+  </company>
+  <company>
+    <company-id>0004103</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Климовичи, пер-к Революционный</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+ () </number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/klimovichi</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772902</actualization-date>
+  </company>
+  <company>
+    <company-id>0004104</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Климовичи, ул. Магона, 7A</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (22) 4465555</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/klimovichi</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772903</actualization-date>
+  </company>
+  <company>
+    <company-id>0004105</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Щучин, ул. Островского, 1г</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7013294</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/schuchin</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772933</actualization-date>
+  </company>
+  <company>
+    <company-id>0004106</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Чериков, ул. Ленинская, 178А</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+ () </number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/cherikov</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772954</actualization-date>
+  </company>
+  <company>
+    <company-id>0004107</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Ушачи, ул. Ленинская, 14</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (29) 2924108</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/ushachi</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032772987</actualization-date>
+  </company>
+  <company>
+    <company-id>0004108</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Старые дороги, ул. Комсомольская, 21</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (33) 6958836</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/staryie_dorogi</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773003</actualization-date>
+  </company>
+  <company>
+    <company-id>0004109</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Старые дороги, ул. Колхозная, 33 к.1/22</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+ () </number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/staryie_dorogi</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773004</actualization-date>
+  </company>
+  <company>
+    <company-id>0004110</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Солигорск, ул. Железнодорожная, 21, пав. 31</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7774375</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/soligorsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773033</actualization-date>
+  </company>
+  <company>
+    <company-id>0004111</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Солигорск, ул. Ленина, 14-107</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9404530</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/soligorsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773033</actualization-date>
+  </company>
+  <company>
+    <company-id>0004112</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Хойники, ул. Карла Маркса, 11</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (23) 4621844</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/hoyniki</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773055</actualization-date>
+  </company>
+  <company>
+    <company-id>0004113</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Корма, ул. Ленина, 20</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6672876</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/korma_a</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773075</actualization-date>
+  </company>
+  <company>
+    <company-id>0004114</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Октябрьский, ул. Советская, 48а</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7206108</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/oktyabrskiy</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773103</actualization-date>
+  </company>
+  <company>
+    <company-id>0004115</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Сморгонь, ул. Советская, 13</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9414664</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/smorgon</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773115</actualization-date>
+  </company>
+  <company>
+    <company-id>0004116</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Осиповичи, ул. Сумченко, 29</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9140697</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/osipovichi</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773146</actualization-date>
+  </company>
+  <company>
+    <company-id>0004117</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Осиповичи, ул. Сумченко, 63б</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+ () </number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/osipovichi</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773147</actualization-date>
+  </company>
+  <company>
+    <company-id>0004118</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Орша, ул. Ленина, 19</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6011616</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/orsha</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773169</actualization-date>
+  </company>
+  <company>
+    <company-id>0004119</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Орша, ул. Ленина, 61</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6011717</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/orsha</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773170</actualization-date>
+  </company>
+  <company>
+    <company-id>0004120</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Орша, ул. Советская, 2В</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 5122222</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/orsha</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773170</actualization-date>
+  </company>
+  <company>
+    <company-id>0004121</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Шклов, ул. Советская, 67</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+ () </number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/shklov</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773186</actualization-date>
+  </company>
+  <company>
+    <company-id>0004122</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Мядель, ул. Крупской, 2</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (29) 6950894</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/myadel</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773218</actualization-date>
+  </company>
+  <company>
+    <company-id>0004123</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Краснополье, ул. Советская, 72</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6693498</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/krasnopole</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773243</actualization-date>
+  </company>
+  <company>
+    <company-id>0004124</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Нарочь, ул. Ленинская, 10</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6053000</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/naroch</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773266</actualization-date>
+  </company>
+  <company>
+    <company-id>0004125</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Новополоцк, ул. Молодежная, 166а</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6034008</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/novopolotsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773288</actualization-date>
+  </company>
+  <company>
+    <company-id>0004126</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Новополоцк, ул. Молодежная, 217/4</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+ () </number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/novopolotsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773290</actualization-date>
+  </company>
+  <company>
+    <company-id>0004127</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Мстиславль, ул. Пролетарская, 7</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+ () </number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/mstislavl</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773317</actualization-date>
+  </company>
+  <company>
+    <company-id>0004128</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Новогрудок, пл. Ленина, 7</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9020724</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/novogrudok</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773338</actualization-date>
+  </company>
+  <company>
+    <company-id>0004129</company-id>
+    <name>Эксклюзивный пункт продаж</name>
+    <address lang="by">город Новогрудок, ул. Советская, 30</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 5355561</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/novogrudok</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773338</actualization-date>
+  </company>
+  <company>
+    <company-id>0004130</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Молодечно, ул. Притыцкого, 10</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9102288</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/molodechno</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773391</actualization-date>
+  </company>
+  <company>
+    <company-id>0004131</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Молодечно, ул. В. Гостинец, р-н дома 111, павильон 7</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9910051</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/molodechno</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773392</actualization-date>
+  </company>
+  <company>
+    <company-id>0004132</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Молодечно, ул. В. Гостинец, 143 Б</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7620161</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/molodechno</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773393</actualization-date>
+  </company>
+  <company>
+    <company-id>0004133</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Мозырь, ул. Малинина, 1а</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6589964</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/mozyir</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773416</actualization-date>
+  </company>
+  <company>
+    <company-id>0004134</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Мозырь, ул. Советская, 138</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (23) 6200511</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <phone>
+      <number>+375 (25) 9177752</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/mozyir</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773417</actualization-date>
+  </company>
+  <company>
+    <company-id>0004135</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Мозырь, бульвар Дружбы, 3а</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 5173244</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/mozyir</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773418</actualization-date>
+  </company>
+  <company>
+    <company-id>0004136</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Любань, ул. Первомайская, 34 пав 5</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6664106</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/lyuban</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773438</actualization-date>
+  </company>
+  <company>
+    <company-id>0004137</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Малорита, ул. Парковая, 4</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6247244</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/malorita</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773475</actualization-date>
+  </company>
+  <company>
+    <company-id>0004138</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Марьина Горка, ул. Ленинская, 19</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6879524</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/marina_gorka</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773486</actualization-date>
+  </company>
+  <company>
+    <company-id>0004139</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Марьина Горка, ул. Октябрьская 14</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6879524</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/marina_gorka</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773487</actualization-date>
+  </company>
+  <company>
+    <company-id>0004140</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Лида, ул. Гастелло, 55 ТЦ Алми</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 5212439</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/lida</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773510</actualization-date>
+  </company>
+  <company>
+    <company-id>0004141</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Лида, ул. Советская, 7а</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7985407</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/lida</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773511</actualization-date>
+  </company>
+  <company>
+    <company-id>0004142</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Лида, ул. Труханова, остановочный пункт</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7230374</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/lida</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773511</actualization-date>
+  </company>
+  <company>
+    <company-id>0004143</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Лида, ул. Ленинская, 20</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9337647</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/lida</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773512</actualization-date>
+  </company>
+  <company>
+    <company-id>0004144</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Лида, ул. Чапаева, 17</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (15) 4520906</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/lida</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773514</actualization-date>
+  </company>
+  <company>
+    <company-id>0004145</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Лепель, ул. Максима Горького, 3</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9388891</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/lepel</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773527</actualization-date>
+  </company>
+  <company>
+    <company-id>0004146</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Лепель, ул. Донукалова, 19</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (29) 2133853</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/lepel</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773528</actualization-date>
+  </company>
+  <company>
+    <company-id>0004147</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Крупки, ул. Советская, 3</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (17) 9651777</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/krupki</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773552</actualization-date>
+  </company>
+  <company>
+    <company-id>0004148</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Кричев, микрорайон Сож, 11</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 5274460</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/krichev</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773584</actualization-date>
+  </company>
+  <company>
+    <company-id>0004149</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Кричев, мик-н СОЖ, 11</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+ () </number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/krichev</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773586</actualization-date>
+  </company>
+  <company>
+    <company-id>0004150</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Лунинец, ул. Фрунзе, 9</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7143584</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/luninets</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773607</actualization-date>
+  </company>
+  <company>
+    <company-id>0004151</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Лельчицы, ул. Советская, 63А</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (23) 5650808</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/lelchitsyi</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773630</actualization-date>
+  </company>
+  <company>
+    <company-id>0004152</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Наровля, ул. Корзуна, 64</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (33) 7330203</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/narovlya</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773652</actualization-date>
+  </company>
+  <company>
+    <company-id>0004153</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Жодино, ул. Калиновского, 13</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 5379135</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/jodino</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773686</actualization-date>
+  </company>
+  <company>
+    <company-id>0004154</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Жодино, ул. 50 лет Октября, 15A (р-н гор.поликлиники)</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9770204</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/jodino</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773687</actualization-date>
+  </company>
+  <company>
+    <company-id>0004155</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Ивацевичи, ул. Почтовая, 10а</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6686945</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/ivatsevichi</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773710</actualization-date>
+  </company>
+  <company>
+    <company-id>0004156</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Кобрин, ул. Дзержинского, 115</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6000143</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/kobrin</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773731</actualization-date>
+  </company>
+  <company>
+    <company-id>0004157</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Кобрин, ул. Советская, 4</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9690090</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/kobrin</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773732</actualization-date>
+  </company>
+  <company>
+    <company-id>0004158</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Жлобин, Микрорайон 20, д. 30</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (29) 5207432</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/jlobin</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773750</actualization-date>
+  </company>
+  <company>
+    <company-id>0004159</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Жлобин, ул. Первомайская, 80</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7001213</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/jlobin</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773751</actualization-date>
+  </company>
+  <company>
+    <company-id>0004160</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Жлобин, ул. Воровского, 27</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+ () </number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/jlobin</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773752</actualization-date>
+  </company>
+  <company>
+    <company-id>0004161</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Иваново, ул. Карла Маркса, 43, пом. 14</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7655485</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/ivanovo</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773782</actualization-date>
+  </company>
+  <company>
+    <company-id>0004162</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Добруш, ул. Паскевича, 12</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6317239</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/dobrush</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773828</actualization-date>
+  </company>
+  <company>
+    <company-id>0004163</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Горки, ул. Якубовского, 23а</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7037367</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/gorki</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773851</actualization-date>
+  </company>
+  <company>
+    <company-id>0004164</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Дзержинск, ул. К. Маркса, 11</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7721374</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/dzerjinsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773876</actualization-date>
+  </company>
+  <company>
+    <company-id>0004165</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Калинковичи, ул. Пионерская, 1 ТЦ «Анри»</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7211599</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/kalinkovichi</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773904</actualization-date>
+  </company>
+  <company>
+    <company-id>0004166</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Воложин, ул. Партизанская, 4</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9452462</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/volojin</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773930</actualization-date>
+  </company>
+  <company>
+    <company-id>0004167</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Житковичи, ул. Чкалова, 2</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6591222</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/jitkovichi</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773951</actualization-date>
+  </company>
+  <company>
+    <company-id>0004168</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Жабинка, ул. Ленина, 23</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (29) 2280900</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/jabinka</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773974</actualization-date>
+  </company>
+  <company>
+    <company-id>0004169</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Вилейка, ул. 17-го сентября, д. 29</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9293424</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/vileyka</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032773996</actualization-date>
+  </company>
+  <company>
+    <company-id>0004170</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Глубокое, ул. Ленина, 3/2</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9188289</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <phone>
+      <number>+375 (21) 5621721</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/glubokoe</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774019</actualization-date>
+  </company>
+  <company>
+    <company-id>0004171</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Глубокое, ул. Московская, 10</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (33) 6958836</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/glubokoe</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774020</actualization-date>
+  </company>
+  <company>
+    <company-id>0004172</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Быхов, пл. Привокзальная 2</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6699917</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/byihov</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774064</actualization-date>
+  </company>
+  <company>
+    <company-id>0004173</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Быхов, ул. Социалистическая, 6</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+ () </number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/byihov</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774064</actualization-date>
+  </company>
+  <company>
+    <company-id>0004174</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Быхов, ул. Красноармейская, 32</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+ () </number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/byihov</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774065</actualization-date>
+  </company>
+  <company>
+    <company-id>0004175</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Брагин, ул. Кооперативная, 1</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (23) 4422720</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/bragin</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774087</actualization-date>
+  </company>
+  <company>
+    <company-id>0004176</company-id>
+    <name>Центр продаж и обслуживания</name>
+    <address lang="by">город Бобруйск, ул. Социалистическая, 99</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6889990</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/bobruysk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774111</actualization-date>
+  </company>
+  <company>
+    <company-id>0004177</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Бобруйск, ул. Батова, 11, пав. 42, ТЦ "Альянс"</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (22) 5558755</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/bobruysk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774112</actualization-date>
+  </company>
+  <company>
+    <company-id>0004178</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Бобруйск, ул. Социалистическая, 44 ТЦ "Шалом"</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6670173</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/bobruysk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774112</actualization-date>
+  </company>
+  <company>
+    <company-id>0004179</company-id>
+    <name>Эксклюзивный пункт продаж</name>
+    <address lang="by">город Бобруйск, ул. 50 лет ВЛКСМ, 33</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6891742</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/bobruysk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774113</actualization-date>
+  </company>
+  <company>
+    <company-id>0004180</company-id>
+    <name>Центр продаж и обслуживания</name>
+    <address lang="by">город Барановичи, ул. Советская, 66</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9939662</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/baranovichi</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774133</actualization-date>
+  </company>
+  <company>
+    <company-id>0004181</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Барановичи, пр. Советский, 2 ТЦ "Корона"</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9558774</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/baranovichi</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774133</actualization-date>
+  </company>
+  <company>
+    <company-id>0004182</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Барановичи, ул. Ленина, 7</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+801 (63) 412285</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <phone>
+      <number>+375 (25) 9939663</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/baranovichi</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774134</actualization-date>
+  </company>
+  <company>
+    <company-id>0004183</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Барановичи, ул. Тельмана, 175</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6492198</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/baranovichi</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774134</actualization-date>
+  </company>
+  <company>
+    <company-id>0004184</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Барановичи, ул. Брестская, 226 ТЦ Легион</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6552000</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/baranovichi</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774135</actualization-date>
+  </company>
+  <company>
+    <company-id>0004185</company-id>
+    <name>Центр продаж и обслуживания</name>
+    <address lang="by">город Борисов, ул. Чапаева, 48</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+ () </number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/borisov</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774159</actualization-date>
+  </company>
+  <company>
+    <company-id>0004186</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Борисов, ул. Гагарина, 107</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9000266</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/borisov</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774160</actualization-date>
+  </company>
+  <company>
+    <company-id>0004187</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Борисов, пр. Революции, 43</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9665006</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/borisov</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774160</actualization-date>
+  </company>
+  <company>
+    <company-id>0004188</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Борисов, ул. Комсомольская, 78</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (17) 7723639</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/borisov</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774161</actualization-date>
+  </company>
+  <company>
+    <company-id>0004189</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Борисов, ул. Чапаева, 48</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9993040</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/borisov</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774161</actualization-date>
+  </company>
+  <company>
+    <company-id>0004190</company-id>
+    <name>Центр продаж и обслуживания</name>
+    <address lang="by">город Гомель, пр. Ленина, 16</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+ () </number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/gomel</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774185</actualization-date>
+  </company>
+  <company>
+    <company-id>0004191</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Гомель, пр. Ленина, 63</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7985413</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/gomel</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774186</actualization-date>
+  </company>
+  <company>
+    <company-id>0004192</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Гомель, пр. Ленина, 16</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6043415</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/gomel</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774186</actualization-date>
+  </company>
+  <company>
+    <company-id>0004193</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Гомель, ул. Мазурова, 79 (Супермаркет АЛМИ)</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7536820</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/gomel</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774191</actualization-date>
+  </company>
+  <company>
+    <company-id>0004194</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Гомель, ул. Косарева, 18</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 5371123</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/gomel</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774191</actualization-date>
+  </company>
+  <company>
+    <company-id>0004195</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Гомель, пр. Речицкий, 5В, ТЦ «Мандарин плаза»</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 5461556</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/gomel</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774192</actualization-date>
+  </company>
+  <company>
+    <company-id>0004196</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Гомель, ул. Интернациональная, 49</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9149511</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/gomel</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774193</actualization-date>
+  </company>
+  <company>
+    <company-id>0004197</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Гомель, ул. Сухого, 2</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9163315</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/gomel</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774193</actualization-date>
+  </company>
+  <company>
+    <company-id>0004198</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Гомель, ул. Хатаевича, 9</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6453313</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/gomel</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774194</actualization-date>
+  </company>
+  <company>
+    <company-id>0004199</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Гомель, ул. Ильича, 47</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6510140</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/gomel</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774195</actualization-date>
+  </company>
+  <company>
+    <company-id>0004200</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Гомель, ул. Кирова, 20</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7684988</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/gomel</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774201</actualization-date>
+  </company>
+  <company>
+    <company-id>0004201</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Гомель, ул. Ленина, 10</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7332332</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/gomel</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774201</actualization-date>
+  </company>
+  <company>
+    <company-id>0004202</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Гомель, ул. Владимирова, 16</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 5223724</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/gomel</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774202</actualization-date>
+  </company>
+  <company>
+    <company-id>0004203</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Гомель, пр-т Космонавтов 61-1</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+ () </number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/gomel</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774202</actualization-date>
+  </company>
+  <company>
+    <company-id>0004204</company-id>
+    <name>Центр продаж и обслуживания</name>
+    <address lang="by">город Витебск, пр. Московский, 66/1</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+ () </number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/vitebsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774229</actualization-date>
+  </company>
+  <company>
+    <company-id>0004205</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Витебск, пр. Московский 66/1</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6859919</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/vitebsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774230</actualization-date>
+  </company>
+  <company>
+    <company-id>0004206</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Витебск, пр. Фрунзе, 28</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7082512</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/vitebsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774231</actualization-date>
+  </company>
+  <company>
+    <company-id>0004207</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Витебск, ул. Чкалова, 35</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7302071</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/vitebsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774232</actualization-date>
+  </company>
+  <company>
+    <company-id>0004208</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Витебск, ул. Кирова, 2</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6035707</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/vitebsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774232</actualization-date>
+  </company>
+  <company>
+    <company-id>0004209</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Витебск, ул. Ленина, 26А</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6688945</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/vitebsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774233</actualization-date>
+  </company>
+  <company>
+    <company-id>0004210</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Витебск, пл. Победы</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6527587</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/vitebsk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774238</actualization-date>
+  </company>
+  <company>
+    <company-id>0004211</company-id>
+    <name>Центр продаж и обслуживания</name>
+    <address lang="by">город Могилёв, ул. Первомайская, 31</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+ () </number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/mogilv</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774248</actualization-date>
+  </company>
+  <company>
+    <company-id>0004212</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Могилёв, ул. Терехина, 9</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 5451225</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/mogilv</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774248</actualization-date>
+  </company>
+  <company>
+    <company-id>0004213</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Могилёв, ул. Первомайская, 46/28</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 5380931</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/mogilv</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774249</actualization-date>
+  </company>
+  <company>
+    <company-id>0004214</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Могилёв, ул. Первомайская, 69</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 5371136</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/mogilv</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774249</actualization-date>
+  </company>
+  <company>
+    <company-id>0004215</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Могилёв, ул. Первомайская, 31</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7620240</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/mogilv</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774249</actualization-date>
+  </company>
+  <company>
+    <company-id>0004216</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Могилёв, ул. Кулешова, 1</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 5226005</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/mogilv</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774250</actualization-date>
+  </company>
+  <company>
+    <company-id>0004217</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Могилёв, пр. Мира, остановка "пр. Мира"</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9782277</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/mogilv</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774250</actualization-date>
+  </company>
+  <company>
+    <company-id>0004218</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Могилёв, пр. Пушкинский, 35</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9225739</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/mogilv</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774251</actualization-date>
+  </company>
+  <company>
+    <company-id>0004219</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Могилёв, пр. Пушкинский, 43</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7213768</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/mogilv</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774251</actualization-date>
+  </company>
+  <company>
+    <company-id>0004220</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Могилёв, пр. Шмидта, 3-Б</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7832374</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/mogilv</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774252</actualization-date>
+  </company>
+  <company>
+    <company-id>0004221</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Могилёв, пл. Привокзальная, 2</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6696248</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/mogilv</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774253</actualization-date>
+  </company>
+  <company>
+    <company-id>0004222</company-id>
+    <name>Эксклюзивный пункт продаж</name>
+    <address lang="by">город Могилёв, ул. Минское Шоссе, 31, ТЦ Парк Сити</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7225314</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/mogilv</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774253</actualization-date>
+  </company>
+  <company>
+    <company-id>0004223</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Могилёв, пр-т Мира, 29</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6696248</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/mogilv</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774258</actualization-date>
+  </company>
+  <company>
+    <company-id>0004224</company-id>
+    <name>Центр продаж и обслуживания</name>
+    <address lang="by">город Брест, ул. Пушкинская, 50</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+ () </number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/brest</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774274</actualization-date>
+  </company>
+  <company>
+    <company-id>0004225</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Брест, ул. Советская, 97</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6388858</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/brest</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774275</actualization-date>
+  </company>
+  <company>
+    <company-id>0004226</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Брест, ул. Куйбышева, 13</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9019945</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/brest</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774275</actualization-date>
+  </company>
+  <company>
+    <company-id>0004227</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Брест, ул. Московская, 328</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7369328</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/brest</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774276</actualization-date>
+  </company>
+  <company>
+    <company-id>0004228</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Брест, ул. Варшавское шоссе, 11</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 5359838</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/brest</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774276</actualization-date>
+  </company>
+  <company>
+    <company-id>0004229</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Брест, ул. Московская, 273 В</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7300919</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/brest</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774277</actualization-date>
+  </company>
+  <company>
+    <company-id>0004230</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Брест, ул. Пушкинская, 50</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 5152361</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/brest</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774277</actualization-date>
+  </company>
+  <company>
+    <company-id>0004231</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Брест, ул. Московская, 210, ТЦ «Корона»</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 5323971</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/brest</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774278</actualization-date>
+  </company>
+  <company>
+    <company-id>0004232</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Брест, ул. Советская, 34</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 5300037</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/brest</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774278</actualization-date>
+  </company>
+  <company>
+    <company-id>0004233</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Брест, ул. Янки Купалы, 50. А</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 5291198</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/brest</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774283</actualization-date>
+  </company>
+  <company>
+    <company-id>0004234</company-id>
+    <name>Центр продаж и обслуживания</name>
+    <address lang="by">город Гродно, ул. Пороховая, 9</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+ () </number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/grodno</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774299</actualization-date>
+  </company>
+  <company>
+    <company-id>0004235</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Гродно, ул. Тимирязева, 8</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+ () </number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/grodno</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774300</actualization-date>
+  </company>
+  <company>
+    <company-id>0004236</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Гродно, ул. Л. Чайкиной, 51</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7004238</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/grodno</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774300</actualization-date>
+  </company>
+  <company>
+    <company-id>0004237</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Гродно, ул. Кабяка, 10 Б</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 5487417</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/grodno</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774301</actualization-date>
+  </company>
+  <company>
+    <company-id>0004238</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Гродно, ул. Советских Пограничников, 91</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 5071236</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/grodno</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774302</actualization-date>
+  </company>
+  <company>
+    <company-id>0004239</company-id>
+    <name>Эксклюзивный пункт продаж и обслуживания</name>
+    <address lang="by">город Гродно, ул. Лиможа, 32Б</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6446690</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/grodno</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774302</actualization-date>
+  </company>
+  <company>
+    <company-id>0004240</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Гродно, ул. Горького, 53а</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6649057</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/grodno</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774303</actualization-date>
+  </company>
+  <company>
+    <company-id>0004241</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Гродно, ул. Соломовой, 112</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9285314</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/grodno</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774303</actualization-date>
+  </company>
+  <company>
+    <company-id>0004242</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Гродно, ул. Ожешко, 9</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 7618458</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/grodno</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774304</actualization-date>
+  </company>
+  <company>
+    <company-id>0004243</company-id>
+    <name>Эксклюзивный пункт прoдaж и обслуживания</name>
+    <address lang="by">город Гродно, ул. Пороховая, 9</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 9722665</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/grodno</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774304</actualization-date>
+  </company>
+  <company>
+    <company-id>0004244</company-id>
+    <name>Пункт продаж</name>
+    <address lang="by">город Глуск, ул. Кирова</address>
+    <country lang="by">Беларусь</country>
+    <phone>
+      <number>+375 (25) 6509348</number>
+      <type>phone</type>
+      <ext/>
+      <info/>
+    </phone>
+    <url>http://www.life.com.by/private/salons/city/glusk</url>
+    <rubric-id>184107789</rubric-id>
+    <actualization-date>1455032774316</actualization-date>
+  </company>
+</companies>
