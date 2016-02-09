@@ -5,9 +5,11 @@
 # Don't forget to add your pipeline to the ITEM_PIPELINES setting
 # See: http://doc.scrapy.org/en/latest/topics/item-pipeline.html
 import json
+from sys import stdout
 
 import re
 from scrapy.exceptions import DropItem
+from codecs import getwriter
 
 
 class UnlulerinboylariPipeline(object):
@@ -23,7 +25,7 @@ class UnlulerinboylariPipeline(object):
             val = re.sub("\D", "", val)
             if len(val) != length:
                 return False
-        return int(val.strip())
+        return val.strip()
 
     def validate_str(self, value):
         if type(value) == list:
@@ -41,24 +43,26 @@ class UnlulerinboylariPipeline(object):
         val = val.replace(':', '')
         if len(val.split('Boy Kilo')) > 1:
             val = val.split('Boy Kilo')[0]
+        if len(val.split('Boyu Kilo')) > 1:
+            val = val.split('Boyu Kilo')[0]
         return val.strip()
 
     def process_item(self, item, spider):
-        print item
-        height = self.validate_int(item['height'], length=3) / 100
-        weight = self.validate_int(item['weight'], length=2) / 100
+        height = float(self.validate_int(item['height'], length=3)) / 100
+        weight = int(self.validate_int(item['weight'], length=2))
         name = self.validate_str(item['name']) or ''
+        ontoid = u"ext_unlulerinboylari_" + name.replace(' ', '-')
 
         if height is None and weight is None:
-            raise DropItem("Missing price in %s" % item)
+            raise DropItem("Missing weight and height in %s" % item)
 
         human = {
-            "ontoid": "ext_unlulerinboylari_zihni-goktay",
+            "ontoid": ontoid,
             "ids": (
                 {
-                    "type": "url",
+                    "type": u"url",
                     "value": item['url'],
-                    "langua": "tr"
+                    "langua": u"tr"
                 },
             ),
             "Title": (
@@ -70,23 +74,23 @@ class UnlulerinboylariPipeline(object):
                 "Height": (
                     {
                         "value": height,
-                        "unit": "m"
+                        "unit": u"m"
                     },
                 ),
                 "Weight": (
                     {
                         "value": weight,
-                        "unit": "kg"
+                        "unit": u"kg"
                     },
                 )
             },
             "isa": {
                 "otype": (
                     {
-                        "value": "Hum"
+                        "value": u"Hum"
                     },
                 )
             }
         }
-
-        print json.dumps(human, sort_keys=True)
+        sout = getwriter("utf8")(stdout)
+        sout.write(json.dumps(human, ensure_ascii=False) + "\n")

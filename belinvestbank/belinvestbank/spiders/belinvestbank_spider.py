@@ -1,31 +1,91 @@
-from unlulerinboylari.items import UnlulerinboylariItem
-
+# -*- coding: utf-8 -*-
+from belinvestbank.items import BelinvestbankAtmItem, BelinvestbankInfoItem, BelinvestbankOfficeItem
+from belinvestbank.pipelines import BelinvestbankAtmPipeline, BelinvestbankInfoPipeline, BelinvestbankOfficePipeline
 __author__ = 'PekopT'
 
+from sys import stdout
+
 import scrapy
+from codecs import getwriter
+
+sout = getwriter("utf8")(stdout)
 
 
-class UnlulerinboylariSpider(scrapy.Spider):
-    name = "Unlulerinboylari"
-    allowed_domains = ["www.unlulerinboylari.com"]
+class BelinvestbankAtmSpider(scrapy.Spider):
+    name = "BelinvestbankAtms"
+    allowed_domains = ["www.belinvestbank.by"]
     start_urls = [
-        "http://www.unlulerinboylari.com/index.php",
+        "http://www.belinvestbank.by/atm/",
     ]
 
+    pipeline = set([
+        BelinvestbankAtmPipeline,
+    ])
+
     def parse(self, response):
-        for href in response.xpath('//p[@class="harfler"]/a/@href'):
+        for href in response.xpath('//div[@class="region"]/p/a/@href'):
             url = response.urljoin(href.extract())
-            yield scrapy.Request(url, callback=self.parse_letter_page)
+            yield scrapy.Request(url, callback=self.parse_atm_page)
 
-    def parse_letter_page(self, response):
-        for href in response.xpath('//div[@class="sanatci"]/div[@class="aciklama"]//a/@href'):
+    def parse_atm_page(self, response):
+
+        for item in response.xpath('//div[@class="list"]/div[@class="item"]'):
+            item_name = item.xpath('div[@class="name a"]/a/span/text()').extract()[0]
+            if item_name.find(u'Банкомат') != -1:
+                atm = BelinvestbankAtmItem()
+                atm['name'] = item_name
+                atm['url'] = response.url
+                yield atm
+
+
+class BelinvestbankInfoSpider(scrapy.Spider):
+    name = "BelinvestbankInfos"
+    allowed_domains = ["www.belinvestbank.by"]
+    start_urls = [
+        "http://www.belinvestbank.by/atm/",
+    ]
+
+    pipeline = set([
+        BelinvestbankInfoPipeline,
+    ])
+
+    def parse(self, response):
+        for href in response.xpath('//div[@class="region"]/p/a/@href'):
             url = response.urljoin(href.extract())
-            yield scrapy.Request(url, callback=self.parse_pages)
+            yield scrapy.Request(url, callback=self.parse_atm_page)
 
-    def parse_pages(self, response):
-        item = UnlulerinboylariItem()
-        item['url'] = response.url
-        item['name'] = response.xpath('//div[@class="aciklama"]/p[1]/text()').extract()
-        item['height'] = response.xpath('//div[@class="aciklama"]/p[2]/text()').extract()
-        item['weight'] = response.xpath('//div[@class="aciklama"]/p[3]/text()').extract()
-        yield item
+    def parse_atm_page(self, response):
+        for item in response.xpath('//div[@class="list"]/div[@class="item"]'):
+            item_name = item.xpath('div[@class="name a"]/a/span/text()').extract()[0]
+            if item_name.find(u'Инфокиоск') != -1:
+                atm = BelinvestbankInfoItem()
+                atm['name'] = item_name
+                atm['url'] = response.url
+                yield atm
+
+
+class BelinvestbankOfficeSpider(scrapy.Spider):
+    name = "BelinvestbankOffices"
+    allowed_domains = ["www.belinvestbank.by"]
+    start_urls = [
+        "http://www.belinvestbank.by/geo/",
+    ]
+
+    pipeline = set([
+        BelinvestbankOfficePipeline,
+    ])
+
+    def parse(self, response):
+        for href in response.xpath('//div[@class="region"]/p/a/@href'):
+            url = response.urljoin(href.extract())
+            yield scrapy.Request(url, callback=self.parse_atm_page)
+
+    def parse_atm_page(self, response):
+        for item in response.xpath('//div[@class="list"]/div[@class="item"]'):
+            item_name = item.xpath('div[@class="name a"]/a/span/text()').extract()[0]
+            office = BelinvestbankOfficeItem()
+            office['name'] = item_name
+            office['url'] = response.url
+            office['address'] = item.xpath('div[@class="addres"]/strong/text()').extract()[0]
+            office['phones'] = item.xpath('div[@class="item_block"]//tr/td[1]/strong/text()').extract()
+            yield office

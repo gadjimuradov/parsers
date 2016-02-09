@@ -4,6 +4,8 @@
 #
 # Don't forget to add your pipeline to the ITEM_PIPELINES setting
 # See: http://doc.scrapy.org/en/latest/topics/item-pipeline.html
+from codecs import getwriter
+from sys import stdout
 import json
 
 import re
@@ -23,7 +25,7 @@ class UnluyaslariPipeline(object):
             val = re.sub("\D", "", val)
             if len(val) != length:
                 return False
-        return int(val.strip())
+        return val.strip()
 
     def validate_str(self, value):
         if type(value) == list:
@@ -44,21 +46,21 @@ class UnluyaslariPipeline(object):
         return val.strip()
 
     def process_item(self, item, spider):
-        height = self.validate_int(item['height'], length=3) / 100
-        weight = self.validate_int(item['weight'], length=2) / 100
+        height = float(self.validate_int(item['height'], length=3)) / 100
+        weight = int(self.validate_int(item['weight'], length=2))
         name = self.validate_str(item['name']) or ''
         desc = self.validate_str(item['desc']) or ''
 
         if height is None and weight is None:
-            raise DropItem("Missing price in %s" % item)
+            raise DropItem("Missing weight and height in %s" % item)
 
         human = {
-            "ontoid": "ext_unluyaslari_abdullah-gül",
+            "ontoid": u"ext_unluyaslari_" + name.replace(' ', '-'),
             "ids": (
                 {
-                    "type": "url",
+                    "type": u"url",
                     "value": item['url'],
-                    "langua": "tr"
+                    "langua": u"tr"
                 },
             ),
             "Title": (
@@ -70,29 +72,30 @@ class UnluyaslariPipeline(object):
                 "Height": (
                     {
                         "value": height,
-                        "unit": 'm'
+                        "unit": u'm'
                     },
                 ),
                 "Weight": (
                     {
                         "value": weight,
-                        "unit": "kg",
+                        "unit": u"kg",
                     },
                 )
             },
             "isa": {
                 "ShortDefin": (
                     {
-                        "lang": "tr",
+                        "lang": u"tr",
                         "value": desc
                     },
                 ),
                 "otype": (
                     {
-                        "value": "Hum"
+                        "value": u"Hum"
                     },
                 )
             }
         }
 
-        print json.dumps(human, sort_keys=True)
+        sout = getwriter("utf8")(stdout)
+        sout.write(json.dumps(human, ensure_ascii=False) + "\n")
