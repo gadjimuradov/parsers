@@ -14,3 +14,4 @@ class LifecomItem(scrapy.Item):
     url = scrapy.Field()
     phone = scrapy.Field()
     city = scrapy.Field()
+    time = scrapy.Field()

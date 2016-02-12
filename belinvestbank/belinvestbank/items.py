@@ -12,12 +12,25 @@ class BelinvestbankAtmItem(scrapy.Item):
     name = scrapy.Field()
     phone = scrapy.Field()
     url = scrapy.Field()
+    add_address = scrapy.Field()
+    time = scrapy.Field()
+    info = scrapy.Field()
+    curr = scrapy.Field()
+    accept = scrapy.Field()
+    region = scrapy.Field()
+
 
 
 class BelinvestbankInfoItem(scrapy.Item):
     name = scrapy.Field()
     phone = scrapy.Field()
     url = scrapy.Field()
+    add_address = scrapy.Field()
+    time = scrapy.Field()
+    info = scrapy.Field()
+    curr = scrapy.Field()
+    accept = scrapy.Field()
+    region = scrapy.Field()
 
 
 class BelinvestbankOfficeItem(scrapy.Item):
@@ -26,3 +39,6 @@ class BelinvestbankOfficeItem(scrapy.Item):
     url = scrapy.Field()
     address = scrapy.Field()
     phones = scrapy.Field()
+    region = scrapy.Field()
+    add_address = scrapy.Field()
+    time = scrapy.Field()
