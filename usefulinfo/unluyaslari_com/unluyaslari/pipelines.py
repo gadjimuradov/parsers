@@ -40,7 +40,8 @@ class UnluyaslariPipeline(object):
         else:
             val = value
 
-        val = val.replace('Boy: ', '').replace('Ya\u015f: ', '')
+        val = val.replace('Boy: ', '').replace('Ya\u015f: ', '').replace('\n', ' ').replace('\r', '').replace('\t', '')
+        val = re.sub(' +', ' ', val)
         if len(val.split('(')) > 1:
             val = val.split('(')[0]
         return val.strip()
@@ -51,7 +52,7 @@ class UnluyaslariPipeline(object):
         name = self.validate_str(item['name']) or ''
         desc = self.validate_str(item['desc']) or ''
 
-        if height is None and weight is None:
+        if (height is None and weight is None) or name.replace(' ', '-') == '':
             raise DropItem("Missing weight and height in %s" % item)
 
         human = {
@@ -71,14 +72,14 @@ class UnluyaslariPipeline(object):
             "params": {
                 "Height": (
                     {
-                        "value": height,
-                        "unit": u'm'
+                        "value": unicode(height),
+                        "unit": u"m"
                     },
                 ),
                 "Weight": (
                     {
-                        "value": weight,
-                        "unit": u"kg",
+                        "value": unicode(weight),
+                        "unit": u"kg"
                     },
                 )
             },
