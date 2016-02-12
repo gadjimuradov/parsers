@@ -13,6 +13,7 @@ from codecs import getwriter
 
 
 class UnlulerinboylariPipeline(object):
+    index = []
     def validate_int(self, value, length, suffix=False):
         if type(value) == list:
             val = value[0] if value else None
@@ -53,8 +54,10 @@ class UnlulerinboylariPipeline(object):
         name = self.validate_str(item['name']) or ''
         ontoid = u"ext_unlulerinboylari_" + name.replace(' ', '-')
 
-        if height is None and weight is None:
+        if (height is None and weight is None) or name.replace(' ', '-') == '' or name in self.index:
             raise DropItem("Missing weight and height in %s" % item)
+
+        self.index.append(name)
 
         human = {
             "ontoid": ontoid,
@@ -73,13 +76,13 @@ class UnlulerinboylariPipeline(object):
             "params": {
                 "Height": (
                     {
-                        "value": height,
+                        "value": unicode(height),
                         "unit": u"m"
                     },
                 ),
                 "Weight": (
                     {
-                        "value": weight,
+                        "value": unicode(weight),
                         "unit": u"kg"
                     },
                 )
